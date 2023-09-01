@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    color: white;
+    background-color: rgb(62, 62, 170);
+}
+
+.titulo {
+    font-family: monospace;
+    color: black;
+    font-size: 200%
+}
+
+.subtitulo {
+    font-family: monospace;
+    font-size: 150%;
+}
+.texto {
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.texto2 {
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif
+;
+}
